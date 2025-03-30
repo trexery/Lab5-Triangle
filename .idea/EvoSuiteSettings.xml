@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EvoSuiteSettingsState">
+    <option name="clientOnThread" value="true" />
+    <option name="criterionCBranch" value="false" />
+    <option name="criterionException" value="false" />
+    <option name="criterionLine" value="false" />
+    <option name="criterionMethod" value="false" />
+    <option name="criterionMethodNoException" value="false" />
+    <option name="criterionOutput" value="false" />
+    <option name="criterionWeakMutation" value="false" />
+    <option name="evosuiteSetupCheckBoxSelected" value="false" />
+    <option name="javaPath" value="C:\Users\avolz\.jdks\corretto-11.0.26\bin\java.exe" />
+    <option name="junitCheck" value="false" />
+    <option name="sandbox" value="false" />
+    <option name="seed" value="1" />
+  </component>
+</project>
